@@ -3,7 +3,7 @@
 /*
 * Plugin Name:       RM Slider
 * Plugin URI:        https://rashel.pro/plugins/rm-slider/
-* Description:       Handle the basics with this plugin.
+* Description:       Immerse your audience in a visually captivating experience with our sleek and modern RM slider designs. Choose from a variety of styles to seamlessly integrate the slider into your website's aesthetic.
 * Version:           1.0.0
 * Requires at least: 5.2
 * Requires PHP:      7.2
